@@ -1,7 +1,7 @@
 <template>
   <div class="flex items-center justify-center">
     <div class="bg-white rounded-lg shadow-md px-6 py-6">
-      <h2 class="font-semibold text-gray-900 text-2xl leading-tight border-b-2 border-gray-200 pb-4">Delete account</h2>
+      <h2 class="font-semibold text-gray-900 text-2xl leading-tight border-b-2 border-gray-200 pb-4">Delete account test</h2>
       <p class="mt-4 text-gray-700">We'll cancel your subscription and remove all of your data from our servers.</p>
       <div class="mt-6">
         <button @click="open = true" class="px-4 py-2 text-white font-semibold bg-red-500 hover:bg-red-600 border border-transparent rounded focus:outline-none focus:shadow-outline">
